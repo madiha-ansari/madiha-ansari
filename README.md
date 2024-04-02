@@ -17,7 +17,7 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOefmvtlgAdy8uTNAje2jO7bQo
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/madiha-ansari-10a9b22b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madiha-ansari-10a9b22b3/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ansarimadiha168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ansarimadiha168/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ansarimadiha168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ansarimadiha168/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
