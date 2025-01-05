@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/madiha-ansari](https://github.com/madiha-ansari)
 
-- 💬 Ask me about **Html,CSS,JAVASCRIPT,TYPESCRIPT,C++,BOOTSCRAPT,NOTEJS**
+- 💬 Ask me about **Html,CSS,JAVASCRIPT,TYPESCRIPT,C++,BOOTSCRAPT,Tailwant,Media Querrir,NOTEJS**
 
 - 📫 How to reach me **ansarimadiha881@gmail.com**
 
