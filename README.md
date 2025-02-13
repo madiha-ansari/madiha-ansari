@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madiha Ansari</h1>
 <h3 align="center">MERN stack developer from Pakistan.</h3>
 <img  align='left' alt='coading' width='1200' src='https://media.licdn.com/dms/image/v2/D4D16AQGeaQUT_8MLJA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712316165770?e=1744848000&v=beta&t=TktT1RlxsoUKl4_zkhvVdifBXaYPVFhUUfCUGLuq5kQ' >
-
-
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madiha-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="madiha-ansari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madiha-ansari" alt="madiha-ansari" /></a> </p>
