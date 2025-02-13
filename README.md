@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madiha Ansari</h1>
-<h3 align="center">Web Developer | React Js Developer | Flutter Developer | Android Developer | Java Programmer | Python Programmer.</h3>
+<h3 align="center">MERN stack developer from Pakistan.</h3>
 <img  align='left' alt='coading' width='1200' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYbjLmUujxHXnwCH5IqPnxEt0DUx71qu67mg&s' >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madiha-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="madiha-ansari" /> </p>
