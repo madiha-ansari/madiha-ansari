@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Madiha Ansari</h1>
 <h3 align="center">MERN stack developer from Pakistan.</h3>
-<img  align='left' alt='coading' width='200'
+<img  align='center' alt='coading' width='200'
  src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYbjLmUujxHXnwCH5IqPnxEt0DUx71qu67mg&s' >
  
 <br>
