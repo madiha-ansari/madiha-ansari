@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Madiha Ansari</h1>
 <h3 align="center">MERN stack developer from Pakistan.</h3>
 <img  align='left' alt='coading' width='1200'
- src='http://127.0.0.1:5500/WhatsApp%20Image%202025-02-25%20at%2017.21.15_fe12aa22.jpg' >
+ src='https://background-img-seven.vercel.app/' >
  
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madiha-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="madiha-ansari" /> </p>
