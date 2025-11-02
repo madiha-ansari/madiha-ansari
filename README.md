@@ -1,39 +1,3 @@
-body {
-  background: #111;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  overflow: hidden;
-  font-family: 'Poppins', sans-serif;
-}
-
-.reveal {
-  position: relative;
-  overflow: hidden;
-}
-
-.reveal h1 {
-  color: white;
-  font-size: 3rem;
-  letter-spacing: 2px;
-  animation: slideUp 2s ease forwards;
-}
-
-@keyframes slideUp {
-  0% {
-    transform: translateY(100%);
-    opacity: 0;
-  }
-  100% {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
-
-
-
-
  <h1 align="center">Hi 👋, I'm Madiha Ansari</h1>
 <h3 align="center">MERN stack developer from Pakistan.</h3>
 <img  align='center' alt='coading' width='800' height='220' src='https://live.staticflickr.com/65535/51350239267_93b73e631f_h.jpg' >
