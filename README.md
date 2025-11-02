@@ -1,10 +1,43 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Madiha+Ansari;MERN+Stack+Developer+from+Pakistan;Passionate+about+AI+and+FullStack+Development" alt="Typing SVG" />
-</p>
+body {
+  background: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+  font-family: 'Poppins', sans-serif;
+}
 
-<h3 align="center">🚀 MERN Stack Developer | 🌍 From Pakistan</h3>
-<img align="center" alt="coding" width="800" height="220" src="https://live.staticflickr.com/65535/51350239267_93b73e631f_h.jpg">
+.reveal {
+  position: relative;
+  overflow: hidden;
+}
 
+.reveal h1 {
+  color: white;
+  font-size: 3rem;
+  letter-spacing: 2px;
+  animation: slideUp 2s ease forwards;
+}
+
+@keyframes slideUp {
+  0% {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+
+
+
+ <h1 align="center">Hi 👋, I'm Madiha Ansari</h1>
+<h3 align="center">MERN stack developer from Pakistan.</h3>
+<img  align='center' alt='coading' width='800' height='220' src='https://live.staticflickr.com/65535/51350239267_93b73e631f_h.jpg' >
+ 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madiha-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="madiha-ansari" /> </p>
 
@@ -38,3 +71,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madiha-ansari&show_icons=true&locale=en" alt="madiha-ansari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madiha-ansari&" alt="madiha-ansari" /></p>
+
+
+
+
+
+
+
