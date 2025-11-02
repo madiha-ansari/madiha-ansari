@@ -1,7 +1,10 @@
- <h1 align="center">Hi 👋, I'm Madiha Ansari</h1>
-<h3 align="center">MERN stack developer from Pakistan.</h3>
-<img  align='center' alt='coading' width='800' height='220' src='https://live.staticflickr.com/65535/51350239267_93b73e631f_h.jpg' >
- 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Madiha+Ansari;MERN+Stack+Developer+from+Pakistan;Passionate+about+AI+and+FullStack+Development" alt="Typing SVG" />
+</p>
+
+<h3 align="center">🚀 MERN Stack Developer | 🌍 From Pakistan</h3>
+<img align="center" alt="coding" width="800" height="220" src="https://live.staticflickr.com/65535/51350239267_93b73e631f_h.jpg">
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madiha-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="madiha-ansari" /> </p>
 
